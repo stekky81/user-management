@@ -1,4 +1,4 @@
-User management module for Yii 2 - Fork
+User management module for Yii 2
 =====
 
 Perks
